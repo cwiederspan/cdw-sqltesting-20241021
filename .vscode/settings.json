@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/30c417b6-b3c1-4b62-94c9-0d3a80a182e9/resourceGroups/cdw-sqltesting-20241021/providers/Microsoft.Web/sites/cdw-sqltesting-20241021-web",
+    "appService.deploySubpath": "src/MySqlWebApp/bin/Release/net8.0/publish"
+}
